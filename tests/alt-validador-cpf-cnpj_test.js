@@ -45,6 +45,10 @@ function getCPFs() {
       out: false
     },
     {
+      in: '00000000000',
+      out: false
+    },
+    {
       in: '11111111111',
       out: false
     },
